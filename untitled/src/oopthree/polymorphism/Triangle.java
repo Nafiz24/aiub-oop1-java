@@ -1,4 +1,4 @@
-package oopthree.properties.polymorphism;
+package oopthree.polymorphism;
 
 public class Triangle extends Shapes{
     @Override

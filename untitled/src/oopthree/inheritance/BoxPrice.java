@@ -1,4 +1,4 @@
-package oopthree.properties.inheritance;
+package oopthree.inheritance;
 
 public class BoxPrice extends BoxWeight{
     double cost ;

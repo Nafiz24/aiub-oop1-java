@@ -1,4 +1,4 @@
-package oopthree.properties.polymorphism;
+package oopthree.polymorphism;
 
 public class Main {
     static void main(String[] args) {

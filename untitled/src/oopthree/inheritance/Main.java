@@ -1,4 +1,4 @@
-package oopthree.properties.inheritance;
+package oopthree.inheritance;
 
 public class Main {
     static void main(String[] args) {

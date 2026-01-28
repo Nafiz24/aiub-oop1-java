@@ -1,4 +1,4 @@
-package ooptwo.singleTon.staticExample;
+package ooptwo.singleTon;
 
 public class Main {
     static void main(String[] args) {

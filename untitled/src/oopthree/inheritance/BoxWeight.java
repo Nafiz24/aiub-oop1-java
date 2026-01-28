@@ -1,4 +1,4 @@
-package oopthree.properties.inheritance;
+package oopthree.inheritance;
 
 public class BoxWeight extends Box{
     double weight ;
